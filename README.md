@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepakRajHR
+- 👋 Hi, I’m Deepak
 - 👀 I’m interested in programming languages, parsing and code quality. 
 - I’m currently learning Rust lang 🦀, and exploring LLVM Kaleidoscope. 
 - 💞️ I’m looking to collaborate on static analysis, building tools using clang libtooling 🐉.
