@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeepakRajHR
 - 👀 I’m interested in programming languages, parsing and code quality. 
-- 🌱 I’m currently learning Rust lang, and what does it take to build a language from scratch. 
-- 💞️ I’m looking to collaborate on static analysis
+- I’m currently learning Rust lang 🦀, and what does it take to build a language from scratch. 
+- 💞️ I’m looking to collaborate on static analysis, building tools using clang libtooling 🐉
 - 📫 Mail me -- deepakrajhr06@gmail.com
 
 <!---
